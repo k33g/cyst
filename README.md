@@ -1,4 +1,4 @@
-# cyst
+# Cyst 🥚
 
 **Cyst** is a helper to ease the use of the JavaScript `localStorage` object of the browser
 
