@@ -26,7 +26,8 @@ cyst.items.forEach(item => console.log("key:", item[0], "value:", item[1]))
 
 > this part is only to test the bi-directional synchronisation
 - 👋
-- 🦊 15:6
+- 🦊 15:26
+- 🗿 15:37
 
 
 
